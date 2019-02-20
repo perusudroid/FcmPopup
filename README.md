@@ -1,6 +1,8 @@
 # FcmPopup
 Sample demo to show dialog on app start
 
+Show dialog on FCM notification received using broadcast receiver.
+
 Show popup on app start without showing full screen activity
 
 Pass data from dialog to anywhere using broadcast reciver. 
