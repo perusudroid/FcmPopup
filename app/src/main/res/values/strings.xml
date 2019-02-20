@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FcmPopup</string>
+
+    <string name="mask_fail_to_start">Failed to start</string>
+    <string name="notification_running_title">Notification Title</string>
+    <string name="notification_running_msg">Running Notificatio</string>
+    <string name="notification_action_turn_off">Turn Off</string>
+    <string name="text_dark">Dark</string>
+    <string name="text_light">Light</string>
+</resources>

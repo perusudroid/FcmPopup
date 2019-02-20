@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="fullRed">#E12218</color>
+
+    <color name="deep_orange_100">#ffccbc</color>
+    <color name="deep_orange_700">#e64a19</color>
+    <color name="deep_purple_100">#d1c4e9</color>
+    <color name="deep_purple_700">#512da8</color>
+    <color name="dsb_disabled_color">#66939393</color>
+    <color name="dsb_progress_color">#ff009688</color>
+    <color name="dsb_ripple_color_focused">#99999999</color>
+    <color name="dsb_ripple_color_pressed">#77939393</color>
+    <color name="dsb_track_color">#ff939393</color>
+    <color name="teal_500">#009688</color>
+    <color name="teal_700">#00796b</color>
+    <color name="translucentBackgroundColor">#00000000</color>
+
+    <color name="cardview_dark_background">#ff424242</color>
+    <color name="cardview_light_background">#ffffffff</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+</resources>
